@@ -1,0 +1,32 @@
+.agreeDiv {
+    display: block;
+    margin-left: 34%;
+    padding-top: 9px;
+}
+
+.quizz {
+    border: 1px solid grey;
+    background: khaki;
+    border-radius: 30px;
+    width: 33%;
+    padding-left: 38px;
+    margin-left: 33%;
+}
+.ins {
+    margin: 10px;
+   
+}
+.btn{
+    margin-left: 43%;
+    padding: 5px;
+    margin-top: 14px;
+}
+.h1{
+    margin-left: 33%;
+}
+.ins>li{
+    list-style-type: square;
+}
+.section{
+    margin-top: 71px;
+}

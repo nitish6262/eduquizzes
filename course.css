@@ -1,0 +1,20 @@
+.list1, .list2, .list3 {
+    display: flex;
+    justify-content: space-around; 
+    margin: 20px;
+}
+
+.a1, .a2, .a3 {
+    border: 5px solid seagreen;
+    height: 100px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a1 a:hover,.a2 a:hover,.a3 a:hover{
+    background: none;
+    color: tomato;
+}
+
